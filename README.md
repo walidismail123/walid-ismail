@@ -1,4 +1,4 @@
-# walid-ismail costumized with my partner rami ismail
+# walid-ismail customized with my partner rami ismail
 python projects and codes
 project:
        COVID-19 DATA TRACKER!
